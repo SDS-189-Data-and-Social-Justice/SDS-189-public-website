@@ -1,0 +1,19 @@
+name: sds189
+output_dir: docs
+output:
+  rmdformats::readthedown:
+    highlight: tango
+    lib_dir: site_libs
+    self_contained: no
+navbar:
+  title: SDS189
+  left:
+    - text: "Syllabus"
+      href: index.html
+    - text: "Grading Contract"
+      href: grading_contract.html
+    - text: "Schedule"
+      href: schedule.html
+  right: 
+    - icon: fa-github fa-lg
+      href: https://github.com/SDS-189-Data-and-Social-Justice/

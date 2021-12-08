@@ -1,0 +1,95 @@
+---
+title: "Schedule"
+output: rmdformats::readthedown
+---
+
+## Week 1: Situating Data
+
+* D'Ignazio, Catherine, and Lauren Klein. 2020. "3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." In *Data Feminism*. MIT Press. https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/1.
+* TechCrunch. 2021. Tackling Deep-Seated Bias in Tech with Haben Girma, Mutale Nkonde and Safiya Noble. Justice 2021. https://www.youtube.com/watch?v=Xvjd1EjRiIE&ab_channel=TechCrunch.
+* Final Project Checkpoint 1: Install Tableau
+
+## Week 2: Data Semiotics
+
+* Martin, Aryn, and Michael Lynch. 2009. "Counting Things and People: The Practices and Politics of Counting." *Social Problems* 56 (2): 243–66. https://doi.org/10.1525/sp.2009.56.2.243.
+* Ducharme, Jamie, and Arpita Aneja. 2018. "Why It's So Hard to Calculate Death Tolls From Hurricanes." *Time*. Accessed September 2, 2020. https://time.com/5395369/death-tolls-hurricane/.
+* Rangarajan, Sinduja. 2020. "We Still Don’t Know How Many Americans Are Killed or Injured by Police Every Year." *Mother Jones (blog)*. Accessed September 1, 2021. https://www.motherjones.com/anti-racism-police-protest/2020/06/we-still-dont-really-know-how-many-americans-are-killed-or-injured-by-police/.
+* NASA. 2015. "When a Definition Makes a Forest Disappear." *Earth Observatory*. December 18, 2015. https://earthobservatory.nasa.gov/images/87176/when-a-definition-makes-a-forest-disappear.
+* Final Project Checkpoint 2: Dataset Hopping
+
+## Week 3: Categorical Silencing
+
+* Star, Susan Leigh, and Geoffrey C. Bowker. 2007. "Enacting Silence: Residual Categories as a Challenge for Ethics, Information Systems, and Communication." *Ethics and Information Technology* 9 (4): 273–80. https://doi.org/10.1007/s10676-007-9141-7.
+* Nagle, Rebecca. 2020. "Native Americans Being Left out of US Coronavirus Data and Labelled as 'Other.'" *The Guardian*. April 24, 2020. http://www.theguardian.com/us-news/2020/apr/24/us-native-americans-left-out-coronavirus-data.
+* Broussard, Meredith. 2019. "The Next Frontier in Gender Rights Is Inside Databases." *Slate Magazine*. October 23, 2019. https://slate.com/technology/2019/10/gender-binary-nonbinary-code-databases-values.html.
+* Final Project Checkpoint 3: Administrative and Descriptive Metadata
+
+## Week 4: Case Study 1: Health Equity and CDC's Underlying Cause of Death Dataset
+
+* Krieger, Nancy. 1992. "The Making of Public Health Data: Paradigms, Politics, and Policy." *Journal of Public Health Policy* 13 (4): 412–27. https://doi.org/10.2307/3342531.
+* Fields, Robin and Joe Sexton. 2017. "How Many American Women Die From Causes Related to Pregnancy or Childbirth? No One Knows." *ProPublica*. Accessed February 17, 2021. https://www.propublica.org/article/how-many-american-women-die-from-causes-related-to-pregnancy-or-childbirth?token=lJNvxxuh75EINCaEK1u64Xa0hzhPQaml.
+* [CDC Underlying Cause of Death Data Documentation](https://wonder.cdc.gov/wonder/help/ucd.html#)
+* Final Project Checkpoint 4: Categories and Measures
+
+## Week 5: Data Visualizations: Conventions, Rhetoric, and Persuasion
+
+* Kennedy, Helen, Rosemary Lucy Hill, Giorgia Aiello, and William Allen. 2016. "The Work That Visualisation Conventions Do." *Information, Communication & Society* 19 (6): 715–35. https://doi.org/10.1080/1369118X.2016.1153126.
+* Chalabi, Mona. 2017. 3 Ways to Spot a Bad Statistic. TED. https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic.
+* Tauberer, Joshua. 2016. "How That Map You Saw on FiveThirtyEight Silences Minorities, and Other Reasons to Consider a Cartogram." *Medium*. February 12, 2016. https://medium.com/@joshuatauberer/how-that-map-you-saw-on-538-under-represents-minorities-by-half-and-other-reasons-to-consider-a-4a98f89cbbb1#.9hjd5euys.
+* Final Project Checkpoint 5: Documentation Write-up
+
+## Week 6: Erasures in Data Collection and Cleaning
+
+* D'Ignazio, Catherine, and Lauren Klein. 2020. "5. Unicorns, Janitors, Ninjas, Wizards, and Rock Stars." In *Data Feminism*. MIT Press. https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/2.
+* Joy Buolamwini. 2000. Voicing Erasure - A Spoken Word Piece Exploring Bias in Voice Recognition Technology. https://www.youtube.com/watch?v=SdCPbyDJtK0&ab_channel=JoyBuolamwini.
+* Organizational Transformation. 2018. AI, Ain’t I A Woman? Presented by Organizational Transformation. *GHC18.* https://www.youtube.com/watch?v=FejjAbwUqbA&t=1635s&ab_channel=AnitaB_org.
+* Final Project Checkpoint 6: Three visualizations
+* Blog Post 1 Due
+
+## Week 7: Case Study 2: Housing Justice and the Eviction Lab
+
+* The Eviction Lab. 2018. The Eviction Epidemic: Matthew Desmond. Accessed August 24, 2021. https://www.youtube.com/watch?v=7f9dqQBYjcA&t=2s&ab_channel=TheEvictionLab.
+* Eviction Lab. 2018. "Methodology Report." v. 1.1.0. https://evictionlab.org/docs/Eviction%20Lab%20Methodology%20Report.pdf.
+* Aiello, Daniela, Lisa Bates, Terra Grazianai, Christopher Herring, Manissa Maharawal, Erin McElroy, Pamela Phan, and Gretchen Purser. 2018. "Eviction Lab Misses the Mark." *Shelterforce* (blog). August 22, 2018. https://shelterforce.org/2018/08/22/eviction-lab-misses-the-mark/.
+* Final Project Checkpoint 7: Determine your claim
+
+## Week 8: WRITING CONSULTATIONS
+
+* Final Project Checkpoint 8: Data evidence supporting your claim
+* Blog Post Peer Review Due
+
+## Week 9: Metric Fixation
+
+* Muller, Jerry Z. 2019. "Introduction." In *The Tyranny of Metrics*. Reprint edition. Princeton: Princeton University Press.
+* Thomas, Rachel, and David Uminsky. 2020. "The Problem with Metrics Is a Fundamental Problem for AI." *ArXiv:2002.08512 [Cs]*, February. http://arxiv.org/abs/2002.08512.
+* TBD
+* Final Project Checkpoint 9: Evidence refuting your claim
+
+## Week 10: Case Study 3: Policing Injustice and NYPD's Stop, Question, and Frisk Database
+
+* Smith, Chris. 2018. "The Crime-Fighting Program That Changed New York Forever." *Intelligencer.* March 2, 2018. http://nymag.com/intelligencer/2018/03/the-crime-fighting-program-that-changed-new-york-forever.html.
+* Richardson, R., Jason Schultz, and K. Crawford. 2019. "Dirty Data, Bad Predictions: How Civil Rights Violations Impact Police Data, Predictive Policing Systems, and Justice." *NYU Law Review* 94 (192): 192–233.
+* NYCLU. 2019. "Stop-and-Frisk in the de Blasio Era." https://www.nyclu.org/sites/default/files/field_documents/20190314_nyclu_stopfrisk_singles.pdf.
+* Final Project Checkpoint 10: Failure to refute
+* Blog Post 1 Revision Due
+
+## Week 11: Case Study 4: Environmemtal Justice and the Toxic Release Inventory
+
+* Villarosa, Linda. 2020. "Pollution Is Killing Black Americans. This Community Fought Back." *The New York Times*, July 28, 2020, sec. Magazine. https://www.nytimes.com/2020/07/28/magazine/pollution-philadelphia-black-americans.html.
+* U.S. Environmental Protection Agency. 2016. The Power of Community Right-to-Know. https://www.youtube.com/watch?v=Fqjh6t6Hx6s&ab_channel=U.S.EnvironmentalProtectionAgency.
+* Hiar, Corbin. 2012. "EPA's Toxics Release Inventory Doesn't Offer Full Picture of Pollution." *Center for Public Integrity*. January 9, 2012. https://www.publicintegrity.org/2012/01/09/7836/epas-toxics-release-inventory-doesnt-offer-full-picture-pollution.
+* US EPA. 2015. "Factors to Consider When Using Toxics Release Inventory Data." https://www.epa.gov/toxics-release-inventory-tri-program/factors-consider-when-using-toxics-release-inventory-data.
+* Executive Summary, OMB Watch. 2006. "Against the Public's Will: Summary of Responses to The Environmental Protection Agency's Plans to Cut Toxic Reporting." https://www.foreffectivegov.org/sites/default/files/info/TRICommentsReport.pdf.
+* Final Project Checkpoint 11: Full Draft
+
+## Week 12: Peer Review
+
+## Week 13: Data Advocacy and Refusal
+
+* Cifor, Marika, Patricia Garcia, T.L. Cowan, Jasmine Rault, Tonia Sutherland, Anita Say Chan, Jennifer Rode, Anna Lauren Hoffmann, Niloufar Salehi, and Lisa Nakamura. 2019. "Feminist Data Manifest-No". https://www.manifestno.com/.
+* Milner, Yeshimabeit. 2019. Data 4 Black Lives II Welcome. Accessed August 24, 2021. https://www.youtube.com/watch?v=cEUi-xnNOSM&ab_channel=DataforBlackLives.
+*  Lewis, Tamika, Seeta Peña Gangadharan, Mariella Saba, and Tawana Petty. (2018). "Digital defense playbook: Community power tools for reclaiming data". Detroit: Our Data Bodies.
+
+## Week 14: Final Presentations
+
+
